@@ -1,2 +1,2 @@
 # jimmysune.github.io
-jimmysune.github.io
+jimmy is me!
